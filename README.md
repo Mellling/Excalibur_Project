@@ -12,3 +12,6 @@
      Visual Studio 2022, Fork, Jira, Slack
 
 <br/> <br/> 
+## Architecture
+
+![Architecture](https://github.com/user-attachments/assets/9a3a0f2d-d983-4ebe-bbc0-925b473d5bdf)
