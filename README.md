@@ -1,6 +1,5 @@
 ## 📝 한 줄 소개
 
-
 - 던전 깊숙히 숨겨져 있는 엑스칼리버를 먼저 획득하여 탈출하는 사람이 승리하는 온라인 로그라이크 던전크롤러 게임
 <br/> <br/>
 
@@ -12,6 +11,7 @@
      Visual Studio 2022, Fork, Jira, Slack
 
 <br/> <br/> 
+
 ## Architecture
 
 ![Architecture](https://github.com/user-attachments/assets/9a3a0f2d-d983-4ebe-bbc0-925b473d5bdf)
