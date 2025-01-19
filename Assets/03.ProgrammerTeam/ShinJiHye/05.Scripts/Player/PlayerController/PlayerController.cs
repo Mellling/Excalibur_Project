@@ -244,6 +244,7 @@ public class PlayerController : BaseController
         if (useFoodItem != null)
         {
             StopCoroutine(useFoodItem);
+            foodItemBar.StopFoodItmeRoutine();
             useFoodItem = null;
             Inventory.Instance.canUseFood = true;
         }
